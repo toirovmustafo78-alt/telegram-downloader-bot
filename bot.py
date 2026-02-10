@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 # Bot tokeni
 TOKEN = "8366478184:AAGP8zLve0yfm3ABggvKjHvZmcSDkQt4ehQ"
 # Admin ID - Iltimos, o'zingizning ID-ingizni bu yerga yozing
-ADMIN_ID = 5621431633 
+ADMIN_ID = 8555950441 
 
 # Flask server (Render.com da 24/7 ishlash uchun)
 app = Flask('')
